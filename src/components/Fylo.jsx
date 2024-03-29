@@ -7,7 +7,7 @@ import iconUpload from "../assets/icons/icon-upload.svg";
 
 const Fylo = () => {
   return (
-    <div className="bg-darkBlue flex flex-1 flex-col items-start justify-center p-12 w-max rounded-xl rounded-tr-[40%]">
+    <div className="bg-darkBlue flex flex-1 flex-col items-start mb-8 justify-center p-12 w-full md:w-max rounded-xl rounded-tr-[40%]">
       <div className="mb-8">
         <img src={logo} alt="Fylo logo" />
       </div>

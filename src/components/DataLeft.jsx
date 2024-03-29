@@ -3,7 +3,8 @@ const DataLeft = () => {
     <div
       className="
         bg-paleBlue text-black flex items-center justify-center p-3 rounded-xl
-        absolute -top-12 right-12
+        absolute -bottom-8 left-1/2 -translate-x-1/2
+        md:-top-12 md:right-12
         "
     >
       <div className="text-4xl z-4 font-bold mr-2">185</div>
@@ -14,6 +15,7 @@ const DataLeft = () => {
       border-t-[0px] border-t-transparent
       border-r-[50px] border-l-paleBlue
       border-b-[40px] border-b-transparent
+      hidden md:block
     "
       ></div>
     </div>
