@@ -7,8 +7,8 @@ const DataLeft = () => {
         md:-top-12 md:right-12
         "
     >
-      <div className="text-4xl z-4 font-bold mr-2">185</div>
-      <div className="text-xs z-4 uppercase">gb left</div>
+      <div className="text-4xl font-bold mr-2">185</div>
+      <div className="text-xs uppercase">gb left</div>
       <div
         class="
       w-0 h-0 absolute -bottom-[25%] right-0

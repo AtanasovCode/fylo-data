@@ -25,6 +25,10 @@ export default {
       },
       flex: {
         '2': "2 1 0%"
+      },
+      backgroundImage: {
+        'desktop': "url(./src/assets/images/bg-desktop.png)",
+        'mobile': "url(./src/assets/images/bg-mobile.png)",
       }
     },
   },
