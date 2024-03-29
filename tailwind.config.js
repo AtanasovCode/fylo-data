@@ -27,8 +27,8 @@ export default {
         '2': "2 1 0%"
       },
       backgroundImage: {
-        'desktop': "url(./src/assets/images/bg-desktop.png)",
-        'mobile': "url(./src/assets/images/bg-mobile.png)",
+        'desktop': "url(./public/bg-desktop.png)",
+        'mobile': "url(./public/bg-mobile.png)",
       }
     },
   },
