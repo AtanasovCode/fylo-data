@@ -10,7 +10,7 @@ const App = () => {
 
   return (
     <div className="font-raleway bg-veryDarkBlue w-screen h-screen flex items-center justify-center">
-      <div className="w-full flex flex-col items-center justify-center m-10">
+      <div className="w-full lg:w-4/5 xl:w-3/5 flex flex-col md:flex-row items-center justify-center m-10">
         <Fylo />
         <Progress data={totalData} used={dataUsed} />
       </div>

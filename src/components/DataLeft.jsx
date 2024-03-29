@@ -3,7 +3,7 @@ const DataLeft = () => {
     <div
       className="
         bg-paleBlue text-black flex items-center justify-center p-3 rounded-xl
-        absolute -bottom-8 left-1/2 -translate-x-1/2
+        absolute -bottom-8 md:bottom-auto left-1/2 md:left-auto -translate-x-1/2 md:translate-x-0
         md:-top-12 md:right-12
         "
     >
