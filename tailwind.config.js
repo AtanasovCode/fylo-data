@@ -23,6 +23,9 @@ export default {
       animation: {
         progress: "progress 1s ease-in",
       },
+      flex: {
+        '2': "2 1 0%"
+      }
     },
   },
   plugins: [],
